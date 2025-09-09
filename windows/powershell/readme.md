@@ -5,4 +5,4 @@ This powershell profile adds a couple alias's for common folder navigation as we
 ```powershell
 notepad $profile 
 ```
-Paste in the contents, and restart your powershell session to reload it. 
+Paste in the contents or `profile.ps1`, and restart your powershell session to reload it. 
