@@ -1,0 +1,1 @@
+This powershell profile adds a couple alias's for common folder navigation as well as adds the unix like `ll` command to the powershell env.
